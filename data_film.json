@@ -1,0 +1,92 @@
+[
+    {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "rating": "9.3",
+        "genre": "Drama, Crime",
+        "duration": "2h 22m",
+        "link": "Unknown",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg"
+    },
+    {
+        "title": "The Godfather",
+        "year": "1972",
+        "rating": "9.2",
+        "genre": "Drama, Crime",
+        "duration": "2h 55m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY133_CR2,0,90,133_.jpg"
+    },
+    {
+        "title": "The Dark Knight",
+        "year": "2008",
+        "rating": "9.1",
+        "genre": "Mystery & Thriller, Action & Adventure, Crime, Drama",
+        "duration": "2h 32m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX90_CR0,0,90,133_.jpg"
+    },
+    {
+        "title": "The Godfather Part II",
+        "year": "1974",
+        "rating": "9.0",
+        "genre": "Drama, Crime",
+        "duration": "3h 22m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg"
+    },
+    {
+        "title": "12 Angry Men",
+        "year": "1957",
+        "rating": "9.0",
+        "genre": "Drama, Crime",
+        "duration": "1h 36m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX90_CR0,3,90,133_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "rating": "9.0",
+        "genre": "Action & Adventure, Fantasy, Drama",
+        "duration": "3h 21m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg"
+    },
+    {
+        "title": "Schindler's List",
+        "year": "1993",
+        "rating": "9.0",
+        "genre": "Drama, History, War & Military",
+        "duration": "3h 15m",
+        "link": "https://images.justwatch.com/icon_wide/322151471/s160/peacocktv.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg"
+    },
+    {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
+        "rating": "8.9",
+        "genre": "Action & Adventure, Fantasy, Drama",
+        "duration": "2h 58m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX90_CR0,0,90,133_.jpg"
+    },
+    {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "rating": "8.8",
+        "genre": "Mystery & Thriller, Comedy, Crime, Drama",
+        "duration": "2h 34m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY133_CR1,0,90,133_.jpg"
+    },
+    {
+        "title": "The Good, the Bad and the Ugly",
+        "year": "1966",
+        "rating": "8.8",
+        "genre": "Western, Made in Europe, Drama",
+        "duration": "2h 58m",
+        "link": "https://images.justwatch.com/icon_wide/322150876/s160/itunes.avif",
+        "poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX90_CR0,1,90,133_.jpg"
+    }
+]
