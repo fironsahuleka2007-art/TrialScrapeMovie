@@ -50,21 +50,6 @@ Teknologi yang Digunakan
 - Web Scraping
 
 ---
-
-Struktur Project
-
-webScrapingFilm/
-│
-├── main.py
-├── movieScraping.ui
-├── movieScraping_ui.py
-├── data_film.json
-├── users.json
-├── logo/
-└── README.md
-
----
-
 Cara Menjalankan Aplikasi
 
 1. Clone repository:
