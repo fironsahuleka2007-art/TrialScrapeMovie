@@ -100,5 +100,22 @@ Project ini dibuat untuk:
 
 ---
 
+Dokumentasi Aplikasi
+
+<img width="881" height="750" alt="Screenshot 2026-03-23 231721" src="https://github.com/user-attachments/assets/e2a59043-f84f-48b6-8b8e-0aae5aa1fded" />
+
+
+<img width="862" height="695" alt="Screenshot 2026-03-23 222913" src="https://github.com/user-attachments/assets/41c97c9f-3cc1-46f8-9793-7f600a9bb17e" />
+
+
+
+<img width="859" height="694" alt="Screenshot 2026-03-23 222920" src="https://github.com/user-attachments/assets/4e0d7b84-77d9-46b7-b7fe-52ee2f5b016e" />
+
+
+
+<img width="875" height="747" alt="Screenshot 2026-03-23 231712" src="https://github.com/user-attachments/assets/ebe7aa30-e88b-4d1d-bbb4-b6632e1bbd4c" />
+
+---
+
 Author
 - Kelompok D5
